@@ -1,10 +1,10 @@
-name: ci
+name: docs-style-check
 
 on: [pull_request]
 
 jobs:
 
-  pull:
+  lint:
     runs-on: ubuntu-latest
     steps:
     - name: Check out 
