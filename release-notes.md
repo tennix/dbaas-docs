@@ -7,6 +7,17 @@ summary: Learn about the release notes of TiDB Cloud.
 
 This page lists the release notes of [TiDB Cloud](https://pingcap.com/products/tidbcloud).
 
+## October 12, 2020
+
+* Change the SQL webshell client from Oracle MySQL client to `usql` client
+* Upgrade the default TiDB version to 4.0.7
+* Tune default TiDB configuration for t1.standard and h1.standard
+* Extend the manual backup retention period from 7 days to 30 days
+
+## October 2, 2020
+
+* Fix TiFlash disk storage configuration
+
 ## September 14, 2020
 
 * Fix monitoring metrics by adding the `region` label
