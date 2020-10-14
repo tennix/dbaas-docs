@@ -67,6 +67,7 @@ When you are asked to provide personal information, you may decline. But if you 
 Our Sites and related online services use cookies and similar technologies to enable certain functionality and help collect information about your visit. "Cookies" are small text files, typically containing a unique string of letters and numbers, stored on your hard drive by a Site. When you return to the Site using the same browser, the Site can read the cookie and thereby gather information about your usage over time. Among other things, we use cookies and other technology to see which areas and features are popular and to count visits, which helps us to improve our Site, our Products, and your experience.
 
 The cookies we use include:
+
 - Web beacons
 - Performance cookies
 - Functionality cookies
