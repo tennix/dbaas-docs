@@ -66,6 +66,7 @@ summary: Learn about TiDB Cloud documentation.
 - [Cluster Tiers](select-cluster-tier.md)
 - [Service Level Agreement](service-level-agreement.md)
 - [Terms of Service](terms-of-service.md)
+- [Privacy Policy](privacy-policy.md)
 - [Support](tidb-cloud-support.md)
 
 </NavColumn>
