@@ -7,6 +7,16 @@ summary: Learn about the release notes of TiDB Cloud.
 
 This page lists the release notes of [TiDB Cloud](https://pingcap.com/products/tidbcloud).
 
+## November 4, 2020
+
+* Implement the function of changing the organization name
+* Prevent users from accessing TiDB during data restoring
+* Update Terms of Service and Privacy location in the Sign Up page
+* Add a feedback form entrance widget
+* Prevent Members from deleting owner(s) in the Preference tab
+* Change TiFlash and TiKV storage chart metrics
+* Upgrade the default TiDB cluster version to 4.0.8
+
 ## October 12, 2020
 
 * Change the SQL webshell client from Oracle MySQL client to `usql` client
