@@ -1,4 +1,4 @@
-<!--Thanks for your contribution to TiDB Cloud documentation. See [CONTRIBUTING](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) before filing this pull request (PR).-->
+<!--Thanks for your contribution to TiDB Cloud documentation. See [how to contribute](https://github.com/pingcap/docs/blob/master/CONTRIBUTING.md#how-to-contribute) before filing this pull request (PR).-->
 
 ### What is changed, added or deleted? (Required)
 
