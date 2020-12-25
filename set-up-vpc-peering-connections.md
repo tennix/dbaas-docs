@@ -17,8 +17,6 @@ Currently, TiDB Cloud only supports VPC peering in the same region. TiDB cluster
 
 1. Go to the **Network Access** page and click **Add**.
 
-    ![TiDB Cloud Network Access](media/vpc-peering/tidb-cloud-network-access-dashboard.png)
-
 2. On the **Add VPC Peering** dialog, fill in the required information of your existing AWS VPC:
 
     - AWS Account ID

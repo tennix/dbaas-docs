@@ -15,9 +15,7 @@ This document describes how to create a TiDB Cloud cluster.
 
 2. Select Cloud Provider.
 
-    On the **TiDB Cluster** page, click the cloud service provider icon on the left of the top navigation bar, and select the cloud provider.
-
-    ![Select Cloud Provider](/media/select-cloud-provider.png)
+    On the **TiDB Cluster** page, click the cloud service provider icon on the left of the top navigation bar, and select the cloud provider. The existing options are Amazon Web Services and Google Cloud.
 
 3. Access the **Create Cluster** page.
 
